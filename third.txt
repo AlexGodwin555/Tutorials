@@ -1,3 +1,6 @@
 this would be the third file created so far
 
 more changes made to this file to see how git works
+
+this filename was changed
+
